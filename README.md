@@ -1,2 +1,27 @@
-# thales-challenge
-This project was created in order to manipulate JSON files in AWS S3 services using Lambda (Nodejs) and exposing via ApiGetway
+
+<h1 align="center"> Thales Challenge</h1>
+
+## Descripton
+<p align="center">This project was created in order to manipulate JSON files in AWS S3 services using Lambda (Nodejs) and exposing via ApiGetway</p>
+
+## Challege
+ This challenge requires the candidate to use at least the following AWS resources:
+
+* S3 bucket (used to store files)
+* Lambda (used to process requests)
+* API Gateway (used to make requests)
+* The candidate is free to add any other features or settings that he/she finds interesting.
+* The entire application can be done directly from the graphical interface of the AWS Console, but the candidate can use available frameworks (e.g.
+serverless) to complete the challenge.
+* Suggested languages:
+Python or
+Javascript (Node.js)
+* The project will be analyzed by the team and then removed to avoid further problems.
+
+## Problem
+
+* The system needs to manage JSON files stored in the cloud through commands sent by URL.
+
+## Solution
+
+![alt text](https://miro.medium.com/max/1400/1*mV6ykK7T_CzqXPqllLORnQ.jpeg)
