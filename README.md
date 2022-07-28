@@ -24,4 +24,6 @@ Javascript (Node.js)
 
 ## Solution
 
+* For this solution I use an API Gateway tool to export the endpoints that will be responsible for executing the actions, I used Labda as an intermediary tool to manipulate the files in S3 with 3 different functions.
+* All requests require Content-type and APP-KEY
 ![alt text](https://miro.medium.com/max/1400/1*mV6ykK7T_CzqXPqllLORnQ.jpeg)
