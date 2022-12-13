@@ -1,9 +1,7 @@
 
 <h1 align="center"> Thales Challenge</h1>
 
-<p align="center">
-  <img width="460" height="300" src="https://static.cryptoid.com.br/wp-content/uploads/2021/12/thales-group-logo.png">
-</p>
+
 
 ## Descripton
 <p align="center">This project was created in order to manipulate JSON files in AWS S3 services using Lambda (Nodejs) and exposing via ApiGetway</p>
